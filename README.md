@@ -1,66 +1,160 @@
- 👩‍💻 ANITA KYAVIRO
+<div align="center">
 
-Développeuse | Étudiante en Informatique appliquée à la gestion des entreprises
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0B1F3A&height=220&section=header&text=ANITA%20KYAVIRO&fontSize=48&fontColor=FFFFFF&fontAlignY=38&desc=DEVELOPER%20%7C%20TECH%20ENTHUSIAST&descAlignY=58&descSize=16" width="100%" />
 
-Bienvenue sur mon profil GitHub ! 👋
+<h3>💻 Développeuse • Étudiante en Informatique de Gestion</h3>
 
-Je suis Anita Kyaviro, développeuse et étudiante en troisième année de Licence (L3) en Informatique appliquée à la gestion des entreprises.
+<p>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Montserrat&weight=600&size=20&duration=3000&pause=1000&color=E87524&center=true&vCenter=true&width=650&lines=Bienvenue+sur+mon+espace+GitHub+%F0%9F%91%8B;Je+conçois+des+solutions+numériques;J'apprends%2C+je+code+et+j'innove+%F0%9F%9A%80" />
+</p>
 
-Passionnée par le numérique, la programmation et les nouvelles technologies, je m'intéresse à la conception de solutions informatiques modernes, utiles et adaptées aux besoins des utilisateurs.
+<p>
+  <a href="https://github.com/kyaviroanita">
+    <img src="https://img.shields.io/badge/GitHub-Explorer%20mes%20projets-0B1F3A?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+  <a href="mailto:anitakyaviro29@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Me%20contacter-E87524?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+</p>
 
----
-
-👩‍🎓 À propos de moi
-
-- 🎓 Formation : L3 Informatique appliquée à la gestion des entreprises.
-- 💻 Profession : Développeuse.
-- 🌱 Intérêts : Développement web, programmation et bases de données.
-- 🚀 Objectif : Améliorer continuellement mes compétences et réaliser des projets innovants.
-- 🤝 Ouverte à la collaboration sur des projets informatiques.
-
-🛠️ Compétences techniques
-
-Langages et technologies
-
-"HTML5" (https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-"CSS3" (https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-"PHP" (https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-"Python" (https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-"C Sharp" (https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)
-
-Bases de données
-
-"MySQL" (https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-
-Outils de développement
-
-"Git" (https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-"GitHub" (https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-
-📂 Domaines d'intérêt
-
-- Développement de sites web.
-- Développement d'applications informatiques.
-- Gestion et conception de bases de données.
-- Programmation et résolution de problèmes.
-- Technologies numériques et innovation.
-
-📊 Statistiques GitHub
-
-"GitHub Stats" (https://github-readme-stats.vercel.app/api?username=kyaviroanita&show_icons=true&theme=transparent&title_color=0B1F3A&icon_color=E87524&text_color=FFFFFF&hide_border=true)
-
-"Top Languages" (https://github-readme-stats.vercel.app/api/top-langs/?username=kyaviroanita&layout=compact&theme=transparent&title_color=0B1F3A&text_color=FFFFFF&hide_border=true)
-
-📫 Me contacter
-
-- 📧 Email : "anitakyaviro29@gmail.com" (mailto:anitakyaviro29@gmail.com)
-- 📱 Téléphone : +243 981 844 918
-- 🐙 GitHub : "github.com/kyaviroanita" (https://github.com/kyaviroanita)
+</div>
 
 ---
 
-<div align="center">💙 Code. Learn. Innovate. 🚀
+## 👩‍💻 PROFIL PROFESSIONNEL
 
-Construire aujourd'hui les solutions numériques de demain.
+Je suis **Anita Kyaviro**, développeuse et étudiante en **troisième année de Licence (L3) en Informatique appliquée à la gestion des entreprises**.
+
+Passionnée par l'informatique, le développement logiciel et les technologies numériques, je m'intéresse à la création de solutions informatiques capables de répondre aux besoins réels des particuliers, des entreprises et des organisations.
+
+Mon ambition est de transformer les idées en solutions numériques pratiques, performantes et accessibles.
+
+---
+
+## 🎯 OBJECTIFS & DOMAINES D'INTÉRÊT
+
+<table>
+<tr>
+<td width="50%">
+
+### 🌐 Développement web
+- Création de sites web
+- Interfaces utilisateur
+- Développement avec PHP
+- HTML et CSS
+
+</td>
+<td width="50%">
+
+### ⚙️ Développement logiciel
+- Programmation Python
+- Applications avec C#
+- Logique algorithmique
+- Résolution de problèmes
+
+</td>
+</tr>
+<tr>
+<td width="50%">
+
+### 🗄️ Gestion des données
+- Conception de bases de données
+- MySQL
+- Organisation des données
+- Gestion informatique
+
+</td>
+<td width="50%">
+
+### 🚀 Innovation numérique
+- Apprentissage continu
+- Technologies émergentes
+- Solutions digitales
+- Collaboration technique
+
+</td>
+</tr>
+</table>
+
+---
+
+## 🛠️ STACK TECHNOLOGIQUE
+
+### Langages de programmation
+
+<p>
+<img src="https://skillicons.dev/icons?i=html,css,php,python,cs" />
+</p>
+
+### Bases de données
+
+<p>
+<img src="https://skillicons.dev/icons?i=mysql" />
+</p>
+
+### Outils & environnement
+
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,vscode" />
+</p>
+
+---
+
+## 📊 GITHUB ANALYTICS
+
+<div align="center">
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=kyaviroanita&show_icons=true&hide_border=true&bg_color=0B1F3A&title_color=FFFFFF&text_color=FFFFFF&icon_color=E87524&rank_icon=github" />
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kyaviroanita&layout=compact&hide_border=true&bg_color=0B1F3A&title_color=FFFFFF&text_color=FFFFFF" />
+
+<img width="95%" src="https://github-readme-streak-stats.herokuapp.com/?user=kyaviroanita&theme=dark&hide_border=true&background=0B1F3A&ring=E87524&fire=E87524&currStreakLabel=FFFFFF" />
+
+</div>
+
+---
+
+## 🤝 COLLABORATION
+
+Je suis intéressée par les projets qui favorisent :
+
+- Le partage de connaissances.
+- La collaboration entre développeurs.
+- La création de solutions technologiques.
+- L'apprentissage de nouvelles compétences.
+
+N'hésitez pas à explorer mes dépôts et à me contacter pour une collaboration.
+
+---
+
+## 📬 CONTACT PROFESSIONNEL
+
+<div align="center">
+
+<a href="mailto:anitakyaviro29@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-anitakyaviro29%40gmail.com-E87524?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+
+<a href="https://github.com/kyaviroanita">
+<img src="https://img.shields.io/badge/GitHub-kyaviroanita-0B1F3A?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+
+<a href="tel:+243981844918">
+<img src="https://img.shields.io/badge/Téléphone-%2B243%20981%20844%20918-168BCB?style=for-the-badge&logo=phone&logoColor=white" />
+</a>
+
+</div>
+
+---
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0B1F3A&height=120&section=footer" width="100%" />
+
+### 💙 BUILD • LEARN • INNOVATE
+
+**ANITA KYAVIRO**
+
+<sub>Développer aujourd'hui, innover pour demain.</sub>
 
 </div>
